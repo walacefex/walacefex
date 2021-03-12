@@ -1,4 +1,4 @@
-### Hi there, i'm Walace Felix, front-end Developement👋
+### Hi there, i'm Walace Felix, Front-end Development, Community Manager, Speaker and Community Leader👋
 
 
 ## Redes Sociais
