@@ -1,26 +1,34 @@
 ### Hi there, i'm Walace Felix, Front-end Development, Community Manager, Speaker and Community Leader👋
 
+<div align="center">
+  <a href="https://github.com/walacefex">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=walacefex&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walacefex&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Walace-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Walace-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Walace-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img align="center" alt="Walace-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="Walace-Material-ui" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+  <img align="center" alt="Walace-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="Walace-photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+  <img align="center" alt="Walace-Wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
+  <img align="center" alt="Walace-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+</div>  
+  
+  
 
-## Redes Sociais
-
-[![Twitter: @unicornfex](https://img.shields.io/twitter/follow/unicornfex?style=social)](https://twitter.com/unicornfex)
-[![Twitch: walacefex](https://img.shields.io/twitch/status/walacefex?style=social)](https://www.twitch.tv/walacefex)
-
-
-[![GitHub Walacefex](https://img.shields.io/github/followers/walacefex?label=follow&style=social)](https://github.com/walacefex)  
-
-[![Linkedin: Walace Felix](https://img.shields.io/badge/-walacefex-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walacefelix/)](https://www.linkedin.com/in/walacefelix/)
-
-## GitHub Stats and Most Used Languages  
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=walacefex&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walacefex&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/walacefex/github-readme-stats) 
-
-## Tech Skills  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Nodejs](https://img.shields.io/badge/NodeJs-339933.svg?logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+<div style="display: inline_block"> <br>
+  <a href="https://www.youtube.com/channel/UC4kFOaldpBSu1pHBJUn3UjQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/walacefex" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/walacefex" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href = "mailto:walacefex01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/walacefelix" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
 
 <!--
